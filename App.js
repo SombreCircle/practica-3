@@ -1,7 +1,6 @@
 import React,{Component} from 'react';
 import {AppRegistry,  StyleSheet, Text, View,TextInput } from 'react-native';
-import {NativeRouter,Route,Switch}from'react-router-native';
-import Principal from './src/components/principal/principal';
+
 
 /*export default class App extends React.Component {
   render() {
